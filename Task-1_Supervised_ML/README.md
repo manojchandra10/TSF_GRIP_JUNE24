@@ -1,5 +1,5 @@
 # <a href="https://www.thesparksfoundationsingapore.org/">The Sparks Foundation</a>
-# <a href="https://imanojchandra.com/">Manoj Chandra</a>
+# <a href="https://manojchandra.co.uk/">Manoj Chandra</a>
 ## Data Science and Business Analytics Internship
 I am excited to share a recent project on Prediction using Supervised Machine Learning conducted as part of my internship with The Sparks Foundation. in Data Science and Business Analytics Domain. 
 
