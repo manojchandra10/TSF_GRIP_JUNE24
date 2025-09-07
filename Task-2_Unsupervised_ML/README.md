@@ -29,7 +29,7 @@ In this project, I worked with the Iris dataset to predict the optimum number of
 3. **Unsupervised Learning**: Gained a deeper understanding of unsupervised machine learning techniques and their practical applications.
 
 Project Walkthrough on YouTube: https://lnkd.in/e6EUwJ2m
-<br>LinkedIn Post: [https://lnkd.in/e9n76TWh](https://www.linkedin.com/posts/imanojchandra_the-sparks-founation-grip-task-2-prediction-activity-7208756119328952320-7Jbm?utm_source=share&utm_medium=member_desktop)
+<br>LinkedIn Post: [https://lnkd.in/e9n76TWh](https://www.linkedin.com/posts/manojchandra10_the-sparks-founation-grip-task-2-prediction-activity-7208756119328952320-7Jbm?utm_source=share&utm_medium=member_desktop)
 
 Special thanks to TheSparksFoundation for this incredible learning opportunity and to fellow interns for their continuous support. Looking forward to applying these skills to future projects and contributing to the field of data science.
 
